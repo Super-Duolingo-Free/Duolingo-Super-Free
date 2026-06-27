@@ -63,7 +63,7 @@ Prerequisites: an active Duolingo account, the current Duolingo app or web acces
 | Storage | Space for the Duolingo app | Extra space for offline lesson content |
 | Payment | App store or web billing method | Annual or family plan review before purchase |
 
-[![GET Duolingo Super](https://img.shields.io/badge/GET%20%E2%80%94%20Duolingo%20Super-58CC02?style=for-the-badge&logoColor=white)](https://duolingo.buddypig.com/FreeClaim/claim.html)
+[![GET Duolingo Super](https://img.shields.io/badge/GET%20%E2%80%94%20Duolingo%20Super-58CC02?style=for-the-badge&logoColor=white)](https://duolingo.buddypig.com/FreeClaim/#Super-Duolingo-free)
 
 ## Related Search Terms
 
